@@ -16,6 +16,11 @@
     "comma-dangle": [
       "error",
       "never"
+    ],
+    "linebreak-style": [
+      0 ,
+      "error", 
+      "windows"
     ]
   }
 }
